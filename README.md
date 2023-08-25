@@ -1,4 +1,4 @@
 # Demo-Repository
 This is my demo repository
 <br>
-Author-Swapnil Chilwant<
+Author-Swapnil Chilwant
